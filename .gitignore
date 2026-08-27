@@ -1,0 +1,28 @@
+# Reddit OAuth credentials
+.env
+.env.*
+credentials.json
+secrets.json
+
+# Local Reddit research output
+reddit_public_research.json
+reddit_search_comments.json
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
