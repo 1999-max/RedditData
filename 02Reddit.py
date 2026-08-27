@@ -39,7 +39,7 @@ REDDIT_CLIENT_SECRET = ""
 
 REDDIT_USER_AGENT = (
     "windows:personal-read-only-research:v1.0 "
-    "(by /u/YOUR_REDDIT_USERNAME)"
+    "(by /u/Careless_Golf_7381)"
 )
 
 
